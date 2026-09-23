@@ -1,0 +1,6 @@
+{
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "powershell -ExecutionPolicy Bypass -File $workspaceRoot/.vscode/run-python.ps1 $fullFileName"
+    }
+}

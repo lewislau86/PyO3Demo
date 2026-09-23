@@ -1,0 +1,4 @@
+/target
+src/scripts/build/
+src/scripts/__pycache__/
+src/scripts/*.pyd
